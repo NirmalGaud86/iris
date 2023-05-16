@@ -1,3 +1,4 @@
 gradio
 joblib
+streamlit
 scikit-learn==1.1.2
